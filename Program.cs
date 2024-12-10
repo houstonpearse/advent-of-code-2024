@@ -8,6 +8,8 @@ public class Runner {
 	public static void Main() {
 		runSolution(Day1.part1);
 		runSolution(Day1.part2);
+		runSolution(Day2.part1);
+		runSolution(Day2.part2);
 	}
 
 
