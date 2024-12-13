@@ -14,6 +14,10 @@ public class Runner {
 		runSolution(Day3.part2);
 		runSolution(Day4.part1);
 		runSolution(Day4.part2);
+		runSolution(Day5.part1);
+		runSolution(Day5.part2);
+		runSolution(Day6.part1);
+		runSolution(Day6.part2);
 	}
 
 
